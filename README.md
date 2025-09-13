@@ -1,7 +1,3 @@
-# Titulo 1
-# #Titulo 2
-### Titulo 3
-
 # Bienvenido a mi paginá
 ## ¿Quién soy?
 Soy Fronted Developer con +4 años de experiencia de desarrollo en aplicaciones web , sitios web y API REST.
